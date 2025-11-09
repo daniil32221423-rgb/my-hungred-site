@@ -24,6 +24,14 @@
       <p>Это мой первый HTML-проект под контролем версий Git.</p>
     </section>
   </main>
+  <section id="about">
+  <h2>О нас</h2>
+    <p>Мы изучаем Git и веб-разработку.</p>
+  </section>
+  <section id="contact">
+    <h2>Контакты</h2>
+    <p>Email: example@mail.ru</p>
+  </section>
 
   <footer>
     <p>&copy; 2026, Алабужев Даниил Андреевич БСМО-10-24</p>
